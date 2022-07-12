@@ -4,7 +4,15 @@ import java.util.List;
 import java.util.Set;
 
 public interface DemoService {
-    Set<User> getUser(Long id);
+    Set<User> findAllUsersSet();
 
-    List<User> getUserList(Long id);
+    List<User> findAllUsersList();
+
+    List<User> findAllUsers();
+
+    List<User> findByIds(List<Long> ids);
+
+    List<User> findByIdsJoinFetch(List<Long> ids);
+
+    List<User> findByIdsJoinFetchPageable(List<Long> ids, Integer pageNumber, Integer pageSize);
 }
