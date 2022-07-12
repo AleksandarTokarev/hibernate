@@ -3,7 +3,11 @@ https://stackoverflow.com/questions/17431312/what-is-the-difference-between-join
 https://stackoverflow.com/questions/9720452/duplicates-using-left-join-fetch   
 https://forum.hibernate.org/viewtopic.php?p=2490231  
 https://www.baeldung.com/jpql-hql-criteria-query#jpql  
-https://stackoverflow.com/questions/16088949/how-to-paginate-a-jpa-query
+https://stackoverflow.com/questions/16088949/how-to-paginate-a-jpa-query  
+https://stackoverflow.com/questions/30549489/what-is-this-spring-jpa-open-in-view-true-property-in-spring-boot  
+https://www.baeldung.com/spring-open-session-in-view  
+https://www.baeldung.com/jpa-join-types  
+https://www.baeldung.com/spring-data-jpa-named-entity-graphs
 
 #### Prerequisites to test app
 Have a PostgreSQL and create the two tables  
