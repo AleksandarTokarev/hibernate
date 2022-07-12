@@ -4,7 +4,7 @@ package io.nexo.hibernate;
 import javax.persistence.*;
 
 @Entity
-@Table(name="hibernate_user_attributes  ")
+@Table(name="hibernate_user_attributes")
 public class UserAttributes {
 
     @Id
