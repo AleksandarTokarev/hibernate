@@ -7,7 +7,10 @@ https://stackoverflow.com/questions/16088949/how-to-paginate-a-jpa-query
 https://stackoverflow.com/questions/30549489/what-is-this-spring-jpa-open-in-view-true-property-in-spring-boot  
 https://www.baeldung.com/spring-open-session-in-view  
 https://www.baeldung.com/jpa-join-types  
-https://www.baeldung.com/spring-data-jpa-named-entity-graphs
+https://www.baeldung.com/spring-data-jpa-named-entity-graphs  
+https://www.baeldung.com/hibernate-one-to-many  
+https://www.baeldung.com/the-persistence-layer-with-spring-data-jpa  
+https://www.baeldung.com/jpa-one-to-one
 
 #### Prerequisites to test app
 Have a PostgreSQL and create the two tables  
