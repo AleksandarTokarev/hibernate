@@ -44,3 +44,6 @@ create table if not exists hibernate_user_attributes
 #### Swagger to test endpoints 
 http://localhost:8080/swagger-ui/index.html
 
+#### Auditing and Envers
+Hibernate Envers dependency has to have the same version as Hibernate Core!   
+If the versions dont match an exception will be thrown
